@@ -16,7 +16,7 @@ iOS SDK 6.1
 
 **Deploy Requirements**
 
-Supports ARM-v7, ARM-v7s CPU architecture, DOES NOT support ARM-v6.
+ARM-v7, ARM-v7s CPU architectures (**DOES NOT support ARM-v6**)
 
 Minimum Deploy target iOS 5.1
 
